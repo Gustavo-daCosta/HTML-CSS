@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(41, 36, 36);
+}
+h1 {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+h2 {
+    color: white;
+    font-size: 30px;
+}
+p, li, ul, ol, dl, dd, dt {
+    color: white;
+    font-size: 20px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
